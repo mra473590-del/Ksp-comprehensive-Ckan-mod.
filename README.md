@@ -4,4 +4,4 @@
 This repository is simply a curated list of mods. All rights, credits, and ownership belong entirely to the original creators and authors who made the mods. I just made the list.
 
 # Ksp-comprehensive-Ckan-mod  warning
-After Install copy the IgnoreSterling.txt into siple repaint/ignore folder to stop errors, warnings.
+After Install copy the IgnoreSterling.txt into simple repaint/ignore folder to stop errors, warnings. Don't update mods you may do at your own risk if done I`m not responsible for any error or isues.
