@@ -1,0 +1,5 @@
+// Ignore all Sterling Systems parts
+@PART[*]:HAS[#author[JadeOfMaar]]:BEFORE[zzzzzzSimpleRepaint]
+{
+    %SR_Ignore = true
+}
