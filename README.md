@@ -9,6 +9,6 @@ After Install copy the IgnoreSterling.txt into simple repaint/ignore folder to s
 The Physics.cfg is in case you having lag issue its a simple fix.
 
 # Ksp-comprehensive-Ckan-mod  Expectations
-This is a mult
+This is a multi interstellar mod list with 1 extra star. It contains simple life support mod, can be disable/uninstalled if wanted.
 
 # Ksp Evrything is listed as a dependency so no need to click anithing Else.
